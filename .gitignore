@@ -1,0 +1,6 @@
+data/
+paper/
+results_quick/
+*.log
+__pycache__/
+*.pyc
